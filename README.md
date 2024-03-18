@@ -11,4 +11,8 @@ Team Members:
 3. **Add images to demo zombies in a better way**: We added logo which displays name of our team, zombie image and a GIF Image.
 4. **Build a Zombie factory/army and demo multiple Zombies**: We created a functionality that creates multiple zombies having unique name and DNA.
 
+Pre-requisites to run the DApp:
+1. Install the node modules by npm install.
+2. For HTTP Server npm install http-server
+
 **Github Link: https://github.com/Atharva-Purandare/Adv_Blockchain**
