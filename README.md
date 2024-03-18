@@ -13,6 +13,6 @@ Team Members:
 
 Pre-requisites to run the DApp:
 1. Install the node modules by npm install.
-2. For HTTP Server npm install http-server
+2. For HTTP Server use npm install http-server
 
 **Github Link: https://github.com/Atharva-Purandare/Adv_Blockchain**
